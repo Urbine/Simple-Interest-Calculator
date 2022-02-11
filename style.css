@@ -1,0 +1,41 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:gray;
+    font-family: verdana;
+    text-align: center;
+
+
+}
+
+#principal, #rate, #years {
+    margin: auto;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+}
+
+.controls {
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+    text-align: justify;
+}
+
+mark {
+    background-color: #f5ef4e;
+}
+
+footer {
+    text-align: left;
+}
